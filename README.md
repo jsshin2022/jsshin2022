@@ -1,12 +1,12 @@
-### Data Enthusiast 👋
-- Data Enthusiast in Gaming Industry
+### Game Data Aanlyst 👋
+- Data Analyst at KRAFTON
 
 
 ### Current Interest
 
 - Causal Inference 
-- Survival Analysis 
-- Network Science
+- Online Controlled Experiment
+- Decision Science
 
 
 ### Contact Info
