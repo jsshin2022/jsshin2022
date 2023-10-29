@@ -1,5 +1,8 @@
-### Game Data Aanlyst 👋
-- Data Analyst at KRAFTON
+### Career as Data Analyst 👋
+| Company   |                                     Job | 
+|:-----  |:----------------------------------------|
+| KRAFTON (22.08 ~ ) |  Data Analyst |
+| NEOPLE (20.07 ~ 22.08) |  Data Analyst | 
 
 
 ### Current Interest
